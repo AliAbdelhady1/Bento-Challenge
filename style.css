@@ -44,7 +44,7 @@ body{
     "item4 item7 item8 item8"
     "item4 item7 item8 item8";
     gap: 2rem;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 1rem;
 }
 
@@ -125,11 +125,11 @@ span{
 }
 
 .item3 > img {
-    height: 350px;
+    height: 410px;
     position: absolute;
     object-fit: cover;
     object-position: left;
-    top: 185px;
+    top: 150px;
 } 
 
 .item4{
